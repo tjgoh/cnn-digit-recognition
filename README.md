@@ -1,0 +1,1 @@
+A Convolutional Neural Network (CNN) is trained for handwritten digit recognition using PyTorch. The MNIST data set is used which consists of 60,000 training digits (0-9) and the test set contains 10,000 samples, respectively. The images in the MNIST dataset consist of 28x28 pixels, and each pixel is represented by a gray scale intensity value.
